@@ -1,1 +1,1 @@
-**This site contains the software prototypes developed in my previous research. Each repository is its own project with source code and documentation. This site provides a short overview of all the software prototypes.**
+**This site contains the software prototypes developed in my previous research. Each repository features its own project, complete with source code and documentation. This site provides a brief overview of all the software prototypes.**
